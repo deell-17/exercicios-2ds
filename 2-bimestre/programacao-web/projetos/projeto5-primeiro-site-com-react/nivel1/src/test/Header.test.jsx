@@ -3,7 +3,7 @@ import { render, screen } from "@testing-library/react"
 import { describe, test, expect } from "vitest"
 
 // Importando o componente Header
-import Header from "../components/Header"
+import Header from "./src/components/Header"
 
 describe("Header", () => {
 
