@@ -29,12 +29,28 @@ Prazo de Entrega 1: 04-mar (2,5 pt) | Prazo de Entrega 2: 08-mar (1,5 pt)
 Prazo de Entrega 1: 25-mar (2,5 pt) | Prazo de Entrega 2: 29-mar(1,5 pt)
 - ✅ **Projeto 4 - Sistema de Lista de Tarefas**<br>
 Prazo de Entrega 1: 30-mar (2,5 pt) | Prazo de Entrega 2: 05-abr (1,5 pt)
-- ⚠️ **Projeto 5 - Primeiro Site com React**<br>
+- ✅ **Projeto 5 - Primeiro Site com React**<br>
 Prazo de Entrega 1: 06-mai (2,5 pt) | Prazo de Entrega 2: 08-mai (1,5 pt)
+- ⚠️ **Projeto 6 - Componente Profile**<br>
+Prazo de Entrega 1: 15-mai (2,5 pt) | Prazo de Entrega 2: 17-mai (1,5 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
--
+INTRODUÇÃO AO REACT E AO VIRTUAL DOM
+PRIMEIRA PÁGINA COM REACT E CONHECIMENTO O JSX
+CONHECENDO E CRIANDO UM PROJETO REACT COM VITE
+CONHECENDO OS COMPONENTES DO REACT
+DADOS DINAMICOS COM JSX, CRIANDO NOVOS COMPONENTES
+ESTILIZANDO COMPONENTES E CONHECENDO OS FRAGMENT
+REUTILIZANDO COMPONENTES
+O QUE SÃO PROPS E COMO USAR
+COMPOSIÇÃO DE COMPONENTES COM CHILDREN
+PROPS COM REST PARAMS
+USANDO EVENTOS DO JAVASCRIPT NO REACT
+O QUE SÃO HOOKS E CONHECENDO O USESTATE
+CONTROLANDO INPUTS USANDO STATE
+COMPARTILHANDO ESTADO ENTRE COMPONENTES
+RENDERIZAÇÃO CONDICIONAL E RENDERIZANDO LISTA DE DADOS
 ```
 
 ### Análise e Projeto de Sistemas
@@ -50,7 +66,15 @@ Prazo de Entrega 1: 12-mai (5 pt) | Prazo de Entrega 2: 15-mai (3 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
--
+TIPOS DE ARQUITETURA DE SOFTWARE: MONOLITICA, CLIENTE-SERVIDOR E MICROSERVIÇOS
+FERRAMENTAS DE APOIO A ARQUITETURA: LUCIDCHART E DRAW.IO
+CRIAÇÃO DE ARQUITETURA BASICA PARA SISTEMAS PEQUENOS
+DIAGRAMA DE SEQUENCIAS
+DIAGRAMAS DE ATIVIDADES NO FORMATO UML
+ANALISE DE FLUXO DE DADOS COM DATA FLOW DIAGRAM (DFD)
+TIPOS DE VIABILIDADE: TÉCNICA, ECONOMICA, LEGAL, OPERACIONAL E CRONOGRAMA
+ANÁLISE DE RISCO EM PROJETOS DE SOFTWARE
+DOCUMENTAÇÃO DE REQUISITOS E ARTEFATOS DE PROJETO (SRS, ESPECIFICAÇÃO DE CASOS DE USO, GLOSSÁRIO)
 ```
 
 ### Gestão de Startup I
@@ -61,10 +85,17 @@ Previsão para 11-jun | Quantidade de Indivíduos: até 5 pessoas (5-10 min de a
 Prazo de Entrega 1: 04-mar (5 pt) | Prazo de Entrega 2: 12-mar (3 pt)
 - ✅ **Projeto 2 - O Gato Comeu meu Código-Fonte**<br>
 Prazo de Entrega 1: 26-mar (5 pt) | Prazo de Entrega 2: 02-abr (3 pt)
+- ⚠️ **Projeto 3 - Desenvolvimento de um MVP**<br>
+Prazo de Entrega 1: 21-mai (5 pt) | Prazo de Entrega 2: não há
 
 #### | CONTEÚDOS PARA A PROVA
 ```
--
+CICLO DE INOVAÇÃO E EXPERIMENTAÇÃO
+ENTENDENDO O MVP: PRODUTO MÍNIMO VIÁVEL
+CARREIRAS EM STARTUPS: PERFIS, CARGOS E OPORTUNIDADES
+PENSAMENTO CRÍTICO E SOLUÇÃO DE PROBLEMAS
+CULTURA DE INOVAÇÃO: COMO CONTRIBUIR COM IDEIAS
+DIVERSIDADE E INCLUSÃO NO ECOSSISTEMA DE STARTUPS
 ```
 
 OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.

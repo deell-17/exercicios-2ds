@@ -1,0 +1,16 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "- Revisar a criação de objetos em JavaScript. - Identificar propriedades e métodos de um objeto. - Entender o conceito de Programação Orientada a Objetos (POO). - Compreender a diferença entre objeto, classe e instância.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

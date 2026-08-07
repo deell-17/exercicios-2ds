@@ -1,0 +1,16 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "- Compreender o conceito de classe em JavaScript. - Aprender a utilizar o método `constructor`. - Entender o funcionamento da palavra-chave `this`. - Criar objetos utilizando classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

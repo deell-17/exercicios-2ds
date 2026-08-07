@@ -1,0 +1,50 @@
+name: Corretor de Exercícios
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  aula01:
+    name: aula01
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 3-bimestre/orientacao-a-objetos/aula01
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula02:
+    name: aula02
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 3-bimestre/orientacao-a-objetos/aula02
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula03:
+    name: aula03
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 3-bimestre/orientacao-a-objetos/aula03
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula04:
+    name: aula04
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 3-bimestre/orientacao-a-objetos/aula04
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
